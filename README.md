@@ -13,9 +13,13 @@
 3.FileUtils中添加了wav格式转amr格式方法
 
 ## 使用:
-[直接下载jar包](https://github.com/dafaWang/pausableAudioRecorder/releases/download/1.0/pausableAudioRecorder.jar)
-或者
-     compile 'com.wangdafa:PausableRecordLib:1.0.1'
+
+   [直接下载jar包](https://github.com/dafaWang/pausableAudioRecorder/releases/download/1.0/pausableAudioRecorder.jar)
+
+
+ 也可以
+ 
+     compile 'com.wangdafa:PausableRecordLib:1.0.1'
 
 或者clone下来项目直接做修改
 
