@@ -3,7 +3,7 @@
 
 一个可以暂停的音频录制库
 
-目前还没有上传jcenter库,后期会优化compile体验
+
 
 ## 特点:
 1.可暂停录制/继续录制
@@ -14,6 +14,8 @@
 
 ## 使用:
 [直接下载jar包](https://github.com/dafaWang/pausableAudioRecorder/releases/download/1.0/pausableAudioRecorder.jar)
+或者
+     compile 'com.wangdafa:PausableRecordLib:1.0.1'
 
 或者clone下来项目直接做修改
 
