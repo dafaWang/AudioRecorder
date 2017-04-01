@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="app.par.com.pausableaudiorecorder.MainActivity">
 
-    <SeekBar
+    <ProgressBar
         android:layout_width="300dp"
         android:layout_height="20dp"
         android:layout_centerHorizontal="true"

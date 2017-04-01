@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
-import android.widget.SeekBar;
+import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import java.io.File;
@@ -19,7 +19,7 @@ import app.par.com.recordaudiolib.FileUtils;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, AudioRecorder.OnRecordingListener {
 
-    private SeekBar progress;
+    private ProgressBar progress;
     private Button mRecordStart, mRecordStop, mPlayStart,mPlayStartAmr;
     private static int MAX_DURATION = 240000;
     private AudioRecorder mAudioRecorder;
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        progress = (SeekBar) findViewById(R.id.progress);
+        progress = (ProgressBar) findViewById(R.id.progress);
         mRecordStart = (Button) findViewById(R.id.start);
         mRecordStop = (Button) findViewById(R.id.complete);
         mPlayStart = (Button) findViewById(R.id.play);
@@ -76,10 +76,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         mAudioRecorder.createDefaultAudio(tempAudioPath);
                     }
                     mAudioRecorder.startRecord(null);
+                    mRecordStart.setText("暂停");
                     isRecording = true;
                 } else {
 //                    暂停录制
                     mAudioRecorder.pauseRecord();
+                    mRecordStart.setText("继续");
                     isRecording = false;
                 }
                 break;
@@ -89,6 +91,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     return;
                 }else{
                     mAudioRecorder.stopRecord();
+                    mRecordStart.setText("开始");
                 }
                 isRecording = false;
                 isRecordFinish = true;
