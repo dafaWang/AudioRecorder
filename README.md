@@ -20,6 +20,7 @@
  也可以
  
      compile 'com.wangdafa:PausableRecordLib:1.0.1'
+     compile 'com.wangdafa:PausableRecordLib:1.0.1@aar'
 
 或者clone下来项目直接做修改
 
