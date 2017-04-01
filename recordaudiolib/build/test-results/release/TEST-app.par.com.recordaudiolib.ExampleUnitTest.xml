@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.par.com.recordaudiolib.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-01T07:00:40" hostname="USER-20160813JU" time="0.001">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="app.par.com.recordaudiolib.ExampleUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

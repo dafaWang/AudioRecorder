@@ -11,13 +11,13 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 284,
                         "endColumn": 107,
-                        "endOffset": 158
+                        "endOffset": 387
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 281
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 163,
+                        "startOffset": 392,
                         "endColumn": 122,
-                        "endOffset": 281
+                        "endOffset": 510
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 286,
+                        "startOffset": 515,
                         "endColumn": 103,
-                        "endOffset": 385
+                        "endOffset": 614
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 390,
+                        "startOffset": 619,
                         "endColumn": 107,
-                        "endOffset": 493
+                        "endOffset": 722
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 579
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 498,
+                        "startOffset": 727,
                         "endColumn": 85,
-                        "endOffset": 579
+                        "endOffset": 808
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 684
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 584,
+                        "startOffset": 813,
                         "endColumn": 104,
-                        "endOffset": 684
+                        "endOffset": 913
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 803
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 689,
+                        "startOffset": 918,
                         "endColumn": 118,
-                        "endOffset": 803
+                        "endOffset": 1032
                     }
                 }
             },
@@ -140,17 +140,17 @@
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 808,
-                    "endColumn": 82,
-                    "endOffset": 886
+                    "endColumn": 86,
+                    "endOffset": 890
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 808,
-                        "endColumn": 82,
-                        "endOffset": 886
+                        "startOffset": 1037,
+                        "endColumn": 86,
+                        "endOffset": 1119
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 891,
-                    "endColumn": 81,
-                    "endOffset": 968
+                    "startOffset": 895,
+                    "endColumn": 105,
+                    "endOffset": 996
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 891,
-                        "endColumn": 81,
-                        "endOffset": 968
+                        "startOffset": 1124,
+                        "endColumn": 105,
+                        "endOffset": 1225
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 973,
-                    "endColumn": 86,
-                    "endOffset": 1055
+                    "startOffset": 1001,
+                    "endColumn": 106,
+                    "endOffset": 1103
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 973,
-                        "endColumn": 86,
-                        "endOffset": 1055
+                        "startOffset": 1230,
+                        "endColumn": 106,
+                        "endOffset": 1332
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1060,
-                    "endColumn": 105,
-                    "endOffset": 1161
+                    "startOffset": 1108,
+                    "endColumn": 100,
+                    "endOffset": 1204
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1060,
-                        "endColumn": 105,
-                        "endOffset": 1161
+                        "startOffset": 1337,
+                        "endColumn": 100,
+                        "endOffset": 1433
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1166,
+                    "startOffset": 1209,
                     "endColumn": 106,
-                    "endOffset": 1268
+                    "endOffset": 1311
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1166,
+                        "startOffset": 1438,
                         "endColumn": 106,
-                        "endOffset": 1268
+                        "endOffset": 1540
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1273,
-                    "endColumn": 100,
-                    "endOffset": 1369
+                    "startOffset": 1316,
+                    "endColumn": 110,
+                    "endOffset": 1422
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1273,
-                        "endColumn": 100,
-                        "endOffset": 1369
+                        "startOffset": 1545,
+                        "endColumn": 110,
+                        "endOffset": 1651
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1374,
-                    "endColumn": 106,
-                    "endOffset": 1476
+                    "startOffset": 1427,
+                    "endColumn": 103,
+                    "endOffset": 1526
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1374,
-                        "endColumn": 106,
-                        "endOffset": 1476
+                        "startOffset": 1656,
+                        "endColumn": 103,
+                        "endOffset": 1755
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1481,
-                    "endColumn": 110,
-                    "endOffset": 1587
+                    "startOffset": 1531,
+                    "endColumn": 97,
+                    "endOffset": 1624
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1481,
-                        "endColumn": 110,
-                        "endOffset": 1587
+                        "startOffset": 1760,
+                        "endColumn": 97,
+                        "endOffset": 1853
                     }
                 }
             },
@@ -291,56 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1592,
-                    "endColumn": 103,
-                    "endOffset": 1691
-                },
-                "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1592,
-                        "endColumn": 103,
-                        "endOffset": 1691
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1696,
-                    "endColumn": 97,
-                    "endOffset": 1789
-                },
-                "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1696,
-                        "endColumn": 97,
-                        "endOffset": 1789
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1794,
+                    "startOffset": 1629,
                     "endColumn": 100,
-                    "endOffset": 1890
+                    "endOffset": 1725
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1794,
+                        "startOffset": 1858,
                         "endColumn": 100,
-                        "endOffset": 1890
+                        "endOffset": 1954
                     }
                 }
             }

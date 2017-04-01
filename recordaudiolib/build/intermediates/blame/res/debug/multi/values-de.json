@@ -11,13 +11,13 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 280,
                         "endColumn": 104,
-                        "endOffset": 155
+                        "endOffset": 380
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 160,
+                        "startOffset": 385,
                         "endColumn": 107,
-                        "endOffset": 263
+                        "endOffset": 488
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 268,
+                        "startOffset": 493,
                         "endColumn": 122,
-                        "endOffset": 386
+                        "endOffset": 611
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 484
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 391,
+                        "startOffset": 616,
                         "endColumn": 97,
-                        "endOffset": 484
+                        "endOffset": 709
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 596
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 489,
+                        "startOffset": 714,
                         "endColumn": 111,
-                        "endOffset": 596
+                        "endOffset": 821
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 601,
+                        "startOffset": 826,
                         "endColumn": 85,
-                        "endOffset": 682
+                        "endOffset": 907
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 787
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 687,
+                        "startOffset": 912,
                         "endColumn": 104,
-                        "endOffset": 787
+                        "endOffset": 1012
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 902
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 792,
+                        "startOffset": 1017,
                         "endColumn": 114,
-                        "endOffset": 902
+                        "endOffset": 1127
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 907,
-                    "endColumn": 76,
-                    "endOffset": 979
+                    "endColumn": 81,
+                    "endOffset": 984
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 907,
-                        "endColumn": 76,
-                        "endOffset": 979
+                        "startOffset": 1132,
+                        "endColumn": 81,
+                        "endOffset": 1209
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 984,
-                    "endColumn": 75,
-                    "endOffset": 1055
+                    "startOffset": 989,
+                    "endColumn": 110,
+                    "endOffset": 1095
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 984,
-                        "endColumn": 75,
-                        "endOffset": 1055
+                        "startOffset": 1214,
+                        "endColumn": 110,
+                        "endOffset": 1320
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1060,
-                    "endColumn": 81,
-                    "endOffset": 1137
+                    "startOffset": 1100,
+                    "endColumn": 102,
+                    "endOffset": 1198
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1060,
-                        "endColumn": 81,
-                        "endOffset": 1137
+                        "startOffset": 1325,
+                        "endColumn": 102,
+                        "endOffset": 1423
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1142,
-                    "endColumn": 110,
-                    "endOffset": 1248
+                    "startOffset": 1203,
+                    "endColumn": 98,
+                    "endOffset": 1297
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1142,
-                        "endColumn": 110,
-                        "endOffset": 1248
+                        "startOffset": 1428,
+                        "endColumn": 98,
+                        "endOffset": 1522
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1253,
-                    "endColumn": 102,
-                    "endOffset": 1351
+                    "startOffset": 1302,
+                    "endColumn": 110,
+                    "endOffset": 1408
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1253,
-                        "endColumn": 102,
-                        "endOffset": 1351
+                        "startOffset": 1527,
+                        "endColumn": 110,
+                        "endOffset": 1633
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1356,
-                    "endColumn": 98,
-                    "endOffset": 1450
+                    "startOffset": 1413,
+                    "endColumn": 101,
+                    "endOffset": 1510
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 98,
-                        "endOffset": 1450
+                        "startOffset": 1638,
+                        "endColumn": 101,
+                        "endOffset": 1735
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1455,
-                    "endColumn": 110,
-                    "endOffset": 1561
+                    "startOffset": 1515,
+                    "endColumn": 106,
+                    "endOffset": 1617
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1455,
-                        "endColumn": 110,
-                        "endOffset": 1561
+                        "startOffset": 1740,
+                        "endColumn": 106,
+                        "endOffset": 1842
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1566,
-                    "endColumn": 101,
-                    "endOffset": 1663
+                    "startOffset": 1622,
+                    "endColumn": 121,
+                    "endOffset": 1739
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1566,
-                        "endColumn": 101,
-                        "endOffset": 1663
+                        "startOffset": 1847,
+                        "endColumn": 121,
+                        "endOffset": 1964
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1668,
-                    "endColumn": 106,
-                    "endOffset": 1770
+                    "startOffset": 1744,
+                    "endColumn": 101,
+                    "endOffset": 1841
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 106,
-                        "endOffset": 1770
+                        "startOffset": 1969,
+                        "endColumn": 101,
+                        "endOffset": 2066
                     }
                 }
             },
@@ -329,56 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1775,
-                    "endColumn": 121,
-                    "endOffset": 1892
-                },
-                "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1775,
-                        "endColumn": 121,
-                        "endOffset": 1892
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1897,
-                    "endColumn": 101,
-                    "endOffset": 1994
-                },
-                "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1897,
-                        "endColumn": 101,
-                        "endOffset": 1994
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1999,
+                    "startOffset": 1846,
                     "endColumn": 100,
-                    "endOffset": 2095
+                    "endOffset": 1942
                 },
                 "from": {
-                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-de\\values-de.xml",
+                    "file": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1999,
+                        "startOffset": 2071,
                         "endColumn": 100,
-                        "endOffset": 2095
+                        "endOffset": 2167
                     }
                 }
             }
