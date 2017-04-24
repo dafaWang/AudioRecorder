@@ -1,7 +1,7 @@
-# PausableAudioRecorder-Android
+# AudioRecorder-Android
 
 
-一个可以暂停的音频录制库
+一个可以暂停-继续的音频录制库
 
 
 
