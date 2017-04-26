@@ -35,7 +35,17 @@
         mAudioRecorder.createDefaultAudio(tempAudioPath);
 
     }
+//开始录音
+      
+      mAudioRecorder.startRecord(null);
+      
+//暂停录音
 
+      mAudioRecorder.pauseRecord();
+      
+//停止录音
+
+      mAudioRecorder.stopRecord();
 
 
 //临时文件转换wav格式音频文件
