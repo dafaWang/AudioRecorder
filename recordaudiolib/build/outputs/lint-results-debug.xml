@@ -18,7 +18,7 @@ To fix this issue, set the `targetSdkVersion` to the highest available value. Th
         quickfix="studio">
         <location
             file="D:\myGithub\PausableAudioRecorder\recordaudiolib\build.gradle"
-            line="9"
+            line="13"
             column="9"/>
     </issue>
 
@@ -92,7 +92,7 @@ Therefore, you should either use the form of the SimpleDateFormat constructor wh
         quickfix="studio">
         <location
             file="D:\myGithub\PausableAudioRecorder\recordaudiolib\build.gradle"
-            line="24"
+            line="28"
             column="5"/>
     </issue>
 

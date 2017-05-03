@@ -20,10 +20,6 @@ import java.io.IOException;
 import java.io.InputStream;
 
 
-/***
- * AmrInputStream
- * @hide
- */
 public final class AmrInputStream extends InputStream
 {    
     static {

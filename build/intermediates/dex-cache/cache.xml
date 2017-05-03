@@ -2,53 +2,39 @@
 <items version="2" >
 
     <item
-        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jar="D:\MyFile\AndroidStudioSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_d163de70f6166744f283e14434b4ab09abb6f2f8.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_e24beca30da4458a74c7a318900632cbacd53c07.jar" />
     </item>
     <item
-        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_176d8af23a2890fb56126327f3b486dab09bbbd3.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_ad996d1e0e59855a15d97372462964e82ee34809.jar" />
     </item>
     <item
-        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_a49927f137ba22d9eeccbfe0fee89e4fc36eed17.jar" />
-    </item>
-    <item
-        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_b91cc89e70c78593f6e805c176c622f545985909.jar" />
-    </item>
-    <item
-        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_52ddca8d6a4df5b65c54cec396d9cd7a6936ab58.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_62d0eef057549e80992c10f09e124a16e4ce922b.jar" />
     </item>
     <item
         jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\PausableAudioRecorder\recordaudiolib\unspecified\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="fb0b3ca244ff82767a49e9a7dbaf8853cf4355f0">
+        sha1="88ea0ec8fcbbae6add43a57b72b8dfac8a9d6094">
         <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\PausableAudioRecorder-recordaudiolib-unspecified_6952ef2452d3fad4e14ae3bfd353305875bcd52f.jar" />
     </item>
     <item
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jar="D:\myGithub\PausableAudioRecorder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_062ad37633a99321e6a59b7344ab769e17e3db55.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\myGithub\PausableAudioRecorder\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_26a64c4e154cbe62fac68f3744bfab1f71f76274.jar" />
     </item>
 
 </items>

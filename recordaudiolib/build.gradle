@@ -1,8 +1,12 @@
 apply plugin: 'com.android.library'
-
+apply plugin: 'com.novoda.bintray-release'
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
+
+    lintOptions {
+        abortOnError false
+    }
 
     defaultConfig {
         minSdkVersion 17
@@ -33,5 +37,24 @@ task makeJar(type: Copy) {
     include('classes.jar')  //看到这行，如果你对分包有了解的话，你就可以看出来这行它只是将一些类打包了
     rename ('classes.jar', 'pausableAudioRecorder.jar')
 }
-
+allprojects {
+    repositories {
+        jcenter()
+    }
+    //加上这些
+    tasks.withType(Javadoc) {
+        options{ encoding "UTF-8"
+            charSet 'UTF-8'
+            links "http://docs.oracle.com/javase/7/docs/api"
+        }
+    }
+}
+publish {
+    userOrg = 'wangdafa'      //bintray注册的用户名
+    groupId = 'com.wangdafa'         //compile引用时的第1部分groupId
+    artifactId = 'PausableRecordLib'     //compile引用时的第2部分项目名
+    publishVersion = '1.0.1'    //compile引用时的第3部分版本号
+    desc = 'This is a pausable audio recorder'
+    website = 'https://github.com/dafaWang/pausableAudioRecorder'
+}
 makeJar.dependsOn(clearJar, build)

@@ -18,7 +18,7 @@ document.getElementById(id+'Link').style.display = 'none';
 <body>
 <h1>Lint Report</h1>
 <div class="titleSeparator"></div>
-Check performed at Sat Apr 01 15:00:35 CST 2017.<br/>
+Check performed at Sat Apr 01 17:38:56 CST 2017.<br/>
 0 errors and 5 warnings found:<br/><br/>
 <table class="overview">
 <tr><td></td><td class="categoryColumn"><a href="#Correctness">Correctness</a>
@@ -46,13 +46,13 @@ Check performed at Sat Apr 01 15:00:35 CST 2017.<br/>
 <div class="id"><a href="#" title="Return to top">OldTargetApi: Target SDK attribute is not targeting latest version</a><div class="issueSeparator"></div>
 </div>
 <div class="warningslist">
-<span class="location"><a href="../../build.gradle">../../build.gradle</a>:9</span>: <span class="message">Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details.</span><br /><pre class="errorlines">
-<span class="lineno">   6</span> 
-<span class="lineno">   7</span>     defaultConfig {
-<span class="lineno">   8</span>         minSdkVersion 17
-<span class="lineno">   9</span>         <span class="errorspan">targetSdkVersion 22</span>
-<span class="lineno">  10</span>         versionCode 1
-<span class="lineno">  11</span>         versionName "1.0"
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:13</span>: <span class="message">Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details.</span><br /><pre class="errorlines">
+<span class="lineno">  10</span> 
+<span class="lineno">  11</span>     defaultConfig {
+<span class="lineno">  12</span>         minSdkVersion 17
+<span class="lineno">  13</span>         <span class="errorspan">targetSdkVersion 22</span>
+<span class="lineno">  14</span>         versionCode 1
+<span class="lineno">  15</span>         versionName "1.0"
 </pre>
 </div>
 <div class="metadata">Note: This issue has an associated quickfix operation in Android Studio/IntelliJ&nbsp;<img alt="Fix" border="0" align="top" src="lint-results-debug_files/lint-run.png" />
@@ -109,20 +109,20 @@ Therefore, you should either use the form of the SimpleDateFormat constructor wh
 </div>
 <div class="warningslist">
 <span class="location"><a href="../../build.gradle">../../build.gradle</a>:5</span>: <span class="message">Old buildToolsVersion 23.0.1; recommended version is 23.0.3 or later</span><br /><pre class="errorlines">
-<span class="lineno">   2</span> 
+<span class="lineno">   2</span> apply plugin: 'com.novoda.bintray-release'
 <span class="lineno">   3</span> android {
 <span class="lineno">   4</span>     compileSdkVersion 23
 <span class="lineno">   5</span>     <span class="errorspan">buildToolsVersion "23.0.1"</span>
 <span class="lineno">   6</span> 
-<span class="lineno">   7</span>     defaultConfig {
+<span class="lineno">   7</span>     lintOptions {
 </pre>
-<span class="location"><a href="../../build.gradle">../../build.gradle</a>:24</span>: <span class="message">A newer version of com.android.support:appcompat-v7 than 23.0.1 is available: 24.1.1</span><br /><pre class="errorlines">
-<span class="lineno">  21</span> dependencies {
-<span class="lineno">  22</span>     compile fileTree(dir: 'libs', include: ['*.jar'])
-<span class="lineno">  23</span>     testCompile 'junit:junit:4.12'
-<span class="lineno">  24</span>     <span class="errorspan">compile 'com.android.support:appcompat-v7:23.0.1'</span>
-<span class="lineno">  25</span> }
-<span class="lineno">  26</span> task clearJar(type: Delete) {
+<span class="location"><a href="../../build.gradle">../../build.gradle</a>:28</span>: <span class="message">A newer version of com.android.support:appcompat-v7 than 23.0.1 is available: 24.1.1</span><br /><pre class="errorlines">
+<span class="lineno">  25</span> dependencies {
+<span class="lineno">  26</span>     compile fileTree(dir: 'libs', include: ['*.jar'])
+<span class="lineno">  27</span>     testCompile 'junit:junit:4.12'
+<span class="lineno">  28</span>     <span class="errorspan">compile 'com.android.support:appcompat-v7:23.0.1'</span>
+<span class="lineno">  29</span> }
+<span class="lineno">  30</span> task clearJar(type: Delete) {
 </pre>
 </div>
 <div class="metadata">Note: This issue has an associated quickfix operation in Android Studio/IntelliJ&nbsp;<img alt="Fix" border="0" align="top" src="lint-results-debug_files/lint-run.png" />

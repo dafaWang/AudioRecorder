@@ -4,12 +4,12 @@
         "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
@@ -100,10 +100,6 @@
         "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
         "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
     },
@@ -138,10 +134,6 @@
     {
         "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
         "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "D:\\myGithub\\PausableAudioRecorder\\recordaudiolib\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
